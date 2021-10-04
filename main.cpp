@@ -14,7 +14,11 @@ int main() {
   cout << "Maksim Mihailov";
 
   cout << "Deniss";.
+
+  cout << "Diana V";
+
   cout << "MasterRingo";
+
 
 
 
