@@ -8,5 +8,6 @@ int main() {
 
   cout << "Anna Butujeva";
   cout << "Deniss";.
+  cout << "MasterRingo";
 
 }
