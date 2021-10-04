@@ -4,6 +4,9 @@ using namespace std;
 int main() {
   cout << "owner : Diana Tureiko";
 
+  cout << "Anna Butujeva";
+
+
   cout << "jekaterina blinova";
 
   cout << "Anna Butujeva";
@@ -12,6 +15,7 @@ int main() {
 
   cout << "Deniss";.
   cout << "MasterRingo";
+
 
 
 }
